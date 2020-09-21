@@ -20,6 +20,7 @@
   .navbar-light .navbar-brand {
     color: #2F3C7E;
     text-shadow: 5px 5px #FBEAEB;
+    padding-left: rem;
 }
 
   .navbar-light .navbar-nav .active>.nav-link { color: #2F3C7E;}
