@@ -123,6 +123,7 @@
   .btn-loginbbtn:hover {
     color: white;
     background-color: #2c3566;
+    text-decoration: none;
   }
 
 .button {
