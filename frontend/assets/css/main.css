@@ -20,7 +20,7 @@
   .navbar-light .navbar-brand {
     color: #2F3C7E;
     text-shadow: 5px 5px #FBEAEB;
-    padding-left: rem;
+    
 }
 
   .navbar-light .navbar-nav .active>.nav-link { color: #2F3C7E;}
@@ -52,3 +52,14 @@
     width: 100%;
   }
   
+
+
+   /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { .navbar-nav-ul {padding-right: 2rem;} }
+
+ /* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  
+  .logo {padding-left: 8rem;}
+
+  .navbar-nav-ul {padding-right: 9rem;}
+}
